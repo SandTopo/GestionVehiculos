@@ -20,5 +20,6 @@ public class VehiculoMotorizado extends Vehiculo{
         System.out.println(tipoCombustible);
         return true;
     }
+
 }
 

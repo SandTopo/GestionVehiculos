@@ -15,4 +15,5 @@ public class Automovil extends VehiculoMotorizado{
         return true;
 
     }
+
 }

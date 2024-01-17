@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecc85ba1-292f-42b6-81cb-53444dc948e4" name="Changes" comment="Primer commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Ceica/Modelos/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Ceica/Modelos/Automovil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Ceica/Modelos/Motocicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Ceica/Modelos/Motocicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Ceica/Modelos/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Ceica/Modelos/Vehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Ceica/Modelos/VehiculoMotorizado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Ceica/Modelos/VehiculoMotorizado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/Ceica/Visualizador/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Ceica/Visualizador/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +68,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705506867335</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primer commit">
+      <option name="closed" value="true" />
+      <created>1705513951471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705513951471</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
