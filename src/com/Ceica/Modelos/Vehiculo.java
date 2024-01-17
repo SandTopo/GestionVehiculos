@@ -1,9 +1,13 @@
 package com.Ceica.Modelos;
-import com.Ceica.Modelos.VehiculoMotorizado;
+
+
 public class Vehiculo {
     private String marca;
     private String modelo;
     private int fabricacionYear;
+
+    public Vehiculo() {
+    }
 
     public Vehiculo(String marca, String modelo, int fabricacionYear) {
         this.marca = marca;
@@ -34,4 +38,13 @@ public class Vehiculo {
     public void setFabricacionYear(int fabricacionYear) {
         this.fabricacionYear = fabricacionYear;
     }
+
+ public boolean mostrarDetalles(){
+     System.out.println(marca);
+     System.out.println(modelo);
+     System.out.println(fabricacionYear);
+
+     return true;
+ }
 }
+
